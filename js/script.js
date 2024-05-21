@@ -7,7 +7,7 @@
 
 // const clock = setInterval( gameOver, 5000, 'interval!!'); // ! OGNI 5 SECONDI ESEGUI e
 
-// console.log('giggina va in montagna'); // c
+// console.log('cucina la carbonara'); // c
 
 // function gameOver(points){
 //     console.log(points);
